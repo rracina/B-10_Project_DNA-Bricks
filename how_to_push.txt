@@ -14,6 +14,6 @@ git add .
 git commit
 git push
 
-when using git commit, you will have to add a note. If you just try to start typing, it won't work. Ctrl+i lets you insert, but pressing s also works. 
+When using git commit, you will have to add a note. If you just try to start typing, it won't work. Ctrl+i lets you insert, but pressing s also works. 
 
 
