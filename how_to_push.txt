@@ -14,5 +14,6 @@ git add .
 git commit
 git push
 
-when using git commit, you will have to add an update note, if it's not letting you type in the termial, just spam s until it shows up on the note
-you can then delete all the s's and type. Seems like other letters have functions to them, but s does not. 
+when using git commit, you will have to add a note. If you just try to start typing, it won't work. Ctrl+i lets you insert, but pressing s also works. 
+
+
