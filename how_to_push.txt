@@ -1,0 +1,15 @@
+If getting the "private email" fatal error: 
+
+git config --global user.email "12345678+yourusername@users.noreply.github.com" #found in github settings > email
+git config --global user.name "Your Name" 
+
+Then run this to check with email github is trying to use for the commit: 
+git log -1 --format='Author: %ae%nCommitter: %ce'
+
+If the email (or username) show your real email, run this: 
+git commit --amend --reset-author --no-edit 
+
+then commit the file via
+git add .
+git commit
+git push
