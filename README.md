@@ -13,5 +13,9 @@ The proposed model is able to simulate the expected yields given $[MgCl_2]$ by u
 
 
 ## Usage
+### Instructions
 1. Download all needed python packages stated in the first code cell. 
-2. Execute each cell one after the other and the code runs without any further changes. 
+2. Execute each cell one after the other and the code runs without any further changes.
+
+### Runtime
+Runtime estimate: 2-5min (bootstrap).
