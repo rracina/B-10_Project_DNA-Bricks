@@ -1,4 +1,4 @@
-# KTH - CB2442: B-10 Project: DNA-Bricks
+# KTH - CB2330: B-10 Project: DNA-Bricks
 CB2330 Group Project: Group 13, Paper ID B-10
 
 This project used the "Three-Dimensional Structures Self-Assembled from DNA Bricks" (Ke et al., 2012) article as the baseline for exploring the relationship between generated DNA yield and $MgCL_2$ concentration in buffer solution.
